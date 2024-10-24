@@ -1,4 +1,5 @@
 ---
+[//]: # (to test run: `docker run -it --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages`)
 title: CoffeeOps Campinas SP
 layout: default
 ---
