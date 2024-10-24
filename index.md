@@ -35,7 +35,7 @@ Geralmente, a menos que especificado outro lugar, os encontros se realizam na [s
 
 Alterações de local, data, horário, pautas e outros anúncios estritamente relacionados aos encontros são realizados em canais das plataformas de mensagens abaixo:
 
-|            WhatsApp                   |            Telegram                   |
+|            [WhatsApp](https://whatsapp.com/channel/0029Vao8s8WGOj9fi19mu242)                   |            [Telegram](https://t.me/CoffeeOpsCampinasSP)                   |
 |:-------------------------------------:|:-------------------------------------:|
 | ![](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://whatsapp.com/channel/0029Vao8s8WGOj9fi19mu242) | ![](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://t.me/CoffeeOpsCampinasSP) |
 
