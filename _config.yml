@@ -1,0 +1,9 @@
+repository: coffeeopscampinassp/coffeeopscampinassp.github.io
+remote_theme: pages-themes/hacker@v0.2.0
+gems:
+- jekyll-remote-theme
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
